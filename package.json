@@ -1,0 +1,19 @@
+{
+  "name": "node-selfie-app",
+  "version": "1.0.0",
+  "description": "simple node selfie app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "selfie"
+  ],
+  "author": "Alessandro Izzo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
